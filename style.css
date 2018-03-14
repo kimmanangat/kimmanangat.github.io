@@ -1,18 +1,18 @@
 <style>
   .name {color: black;
   size: 10;
-  font-family: Palatino;}
+  font-family: Verdana;}
   .address {size:5;
   }
-  body {background-image: url("bg.jpg");
-  font-family: Palatino;
+  body {background-image: url("kimmanangat.github.io/KIM BCK.jpg");
+  font-family: Verdana;
   color: #17202A;
   }
   .bullet {list-style-type: none;
   margin: 0;
   padding: 0;
   background-color: #B2BABB;
-  font-family: Palatino;
+  font-family: Verdana;
   font-size: 20px;
   overflow: hidden;
   }
